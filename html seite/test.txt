@@ -1,0 +1,67 @@
+<html>
+<head>
+    <title>Merccedes Seite</title>
+	<link href="../../../aussehen/format.css" rel="stylesheet">
+  </head>
+  <body id="b_img">
+    <header>
+		<div class="merlogo"></div> <img src="../../../images/logomercedes.png" title="benzlogo" alt="benz" height="20%" width="20%"> </div>
+	</header>
+	<nav>
+		
+		<a href="geschichte.html">Geschichte</a>
+		<a href="c63de.html">C63 Amg</a>
+		<a href="tecchnologie.html">Technologie</a>
+		<a href="../../../indexde.html">Zur Index Seite</a>
+		
+	</nav>
+	<main>
+		<div style="display:inline-block;vertical-align: top;text-align: left;">
+			<img src="../../../images/aklasse.jpg" alt="bild" height="22%" width="22%"/>
+			</div>
+			<div style="display:inline-block;vertical-align: top;text-align: left;">
+			<p>
+				<font size="6"> A Klasse</font>
+			</p>
+			<p>
+				<font size="6">109 bis 421 PS</font>
+			</p>
+			<p>
+				<font size="6">28.394 € - 67.384 €</font>
+			</p>
+			</div>
+		<div style="display:inline-block;vertical-align: top;text-align: left;">
+			<img src="../../../images/bklasse.jpg" alt="bild" height="27%" width="30%"/>
+			</div>
+			<div style="display:inline-block;vertical-align: top;text-align: left;">
+			<p>
+				<font size="6"> B Klasse</font>
+			</p>
+			<p>
+				<font size="6">109 bis 224 PS</font>
+			</p>
+			<p>
+				<font size="6">ab 30.250 Euro</font>
+			</p>
+			</div>
+			<div style="display:inline-block;vertical-align: top;text-align: left;">
+				<img src="../../../images/cklasse.jpg" alt="bild" height="27%" width="35%"/>
+				</div>
+				<div style="display:inline-block;vertical-align: top;text-align: left;">
+				<p>
+					<font size="6"> C Klasse</font>
+				</p>
+				<p>
+					<font size="6">156 bis 510 PS</font>
+				</p>
+				<p>
+					<font size="6">Ab 41.941,6€</font>
+				</p>
+				</div>
+
+</main>
+<footer>
+	<a>von Raphael Bodenm&uumllller</a>
+	</footer>
+  </body>
+</html>
